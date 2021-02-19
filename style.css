@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap'); 
+body{
+  
+   
+    background-color:#292929;
+ 
+    
+}
+
+h1{
+font-family: Poppins;
+font-size: 300;
+    
+color: #fff ;
+}
