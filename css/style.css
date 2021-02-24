@@ -11,14 +11,14 @@ body{
 h1{
 font-family: Poppins;
 font-size: 58px;
-padding-top: 200px;
-padding-left: 90px;
+/* padding-top: 200px; */
+/* padding-left: 90px; */
     
 color: #fff ;
 }
 h3{
     font-size:28px ; 
-    padding-left: 90px;
+    /* padding-left: 90px; */
     color: #fff;
     font-weight: lighter;
     font-family: Poppins;
@@ -29,17 +29,17 @@ button {
      /* width: 13px;
     height: 20px;  */
     background: #4E9CAF;
-    /* padding: 150px; */
+    padding:1em;
     /* text-align: center; */
     border-radius: 32px;
     color: white;
     font-weight: bold;
     /* line-height: 25px; */
-    padding: 10px 25px;
+    /* padding: 10px 25px; */
     font-size: 18px;
     /* overflow: hidden; */
     /* padding-left: 150px; */
-    left:150px;
+   
     
 }
 span{
@@ -83,6 +83,7 @@ padding:12px 30px;
     /* transition: ease-in-out 0.5s; */
 }
 .img{
-    padding-top:20px;
+    /* padding-top:20px; */
+    /* padding-left: 150px; */
 
 }
